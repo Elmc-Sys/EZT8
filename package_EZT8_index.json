@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "EZT8",
+          "name": "Elmc",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Custom",
