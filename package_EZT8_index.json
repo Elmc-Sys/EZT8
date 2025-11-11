@@ -27,7 +27,6 @@
             {
               "packager": "EZT8",
               "name": "avrdude",
-              "version":""
             }
           ]
         }
