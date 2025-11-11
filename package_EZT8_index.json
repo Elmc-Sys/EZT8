@@ -32,7 +32,11 @@
           ]
         }
       ],
-      "tools": [6.0.1-arduino5]
+      "tools": [
+        {
+        6.0.1-arduino5
+        } 
+      ]
     }
   ]
 }
