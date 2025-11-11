@@ -1,0 +1,38 @@
+{
+  "packages": [
+    {
+      "name": "EZT8",
+      "maintainer": "Elmc Systems",
+      "websiteURL": "",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "Elmc",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Custom",
+          "url": "https://github.com/Elmc-Sys/EZT8/raw/zips/EZT8-1.0.0.zip",
+          "archiveFileName": "EZT8-1.0.0.zip",
+          "checksum": "SHA-256:3BF4FFF60BC6EBE612779D498F9B9E1559A910A32C774B92ED573450887578DE",
+          "size": "141056",
+          "boards": [
+            {
+              "name": "EZT8"
+            }
+          ],
+           "toolsDependencies": [
+            {
+              "packager": "EZT8",
+              "name": "avrdude",
+              "version":""
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
