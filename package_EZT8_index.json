@@ -26,8 +26,7 @@
            "toolsDependencies": [
             {
               "packager": "EZT8",
-              "name": "avrdude",
-              "version": ""
+              "name": "avrdude"
             }
           ]
         }
