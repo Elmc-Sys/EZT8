@@ -35,7 +35,6 @@
       "tools": [
             {
               "name": "avrdude",
-              "version": "6.0.1-arduino5"
             }              
       ]
     }
