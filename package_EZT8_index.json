@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "name": "EZT8",
+      "maintainer": "Elmc Systems",
+      "websiteURL": "",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "Elmc",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Custom",
+          "url": "https://github.com/Elmc-Sys/EZT8/raw/zips/EZT8-1.0.0.zip",
+          "archiveFileName": "EZT8-1.0.0.zip",
+          "checksum": "SHA-256:502747AD6EDDD4B546840A180F3193D32E7F56E40D9AE8A79627BEEBE6BD31F5",
+          "size": "104737",
+          "boards": [
+            {
+              "name": "EZT8"
+            }
+          ],
+           "toolsDependencies": [
+            {
+              "packager": "EZT8",
+              "name": "avrdude",
+              "version": "6.3.0-arduino18"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "avrdude",
+          "version": "6.3.0-arduino18",
+          "systems": [        
+            {
+              "host": "i686-mingw32",
+              "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino18-i686-w64-mingw32.zip",
+              "archiveFileName": "avrdude-6.3.0-arduino18-i686-w64-mingw32.zip",
+              "checksum": "SHA-256:0781f4183e91a9783c2330035520144ab76b8f75c0a9f7a25877c063bc984c4d",
+              "size": "329515"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
