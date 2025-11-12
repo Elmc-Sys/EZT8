@@ -14,8 +14,8 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Custom",
-          "url": "https://github.com/Elmc-Sys/EZT8/raw/zips/EZT8-1.0.1.zip",
-          "archiveFileName": "EZT8-1.0.1.zip",
+          "url": "https://github.com/Elmc-Sys/EZT8/raw/zips/EZT8-1.0.0.zip",
+          "archiveFileName": "EZT8-1.0.0.zip",
           "checksum": "SHA-256:50E5CBB421D41F0B82FDFD8A9EEBFD4ABE478C91AD1CE3E10C64C405E0880538",
           "size": "104482",
           "boards": [
