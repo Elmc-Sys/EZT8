@@ -54,7 +54,7 @@
         "name": "CH341",
         "local_filename": "340_Driver",
         
-        "url": "https://downloads.arduino.cc/tools/avrdude-6.3.0-arduino18-i686-w64-mingw32.zip",
+        "url": "https://github.com/Elmc-Sys/EZT8/raw/zips/CH341SER.zip",
         "archiveFileName": "CH341SER.zip",
         "checksum": "SHA-256:362959C265EA00F92BDC735CF59B47799B9C010B6E0D98B07AF18977C7B3C698",
         "size": "189766"  
