@@ -48,5 +48,15 @@
         }
       ]
     }
-  ]
+  ],
+   "file":[
+      {
+        "name": "CH341",
+        "local_filename": "340_Driver",
+        "archiveFileName": "CH341SER.zip",
+        "checksum": "SHA-256:362959C265EA00F92BDC735CF59B47799B9C010B6E0D98B07AF18977C7B3C698",
+        "size": "189766"  
+        }
+      ]
+    }  
 }
